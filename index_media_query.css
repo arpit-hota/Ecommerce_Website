@@ -1,0 +1,217 @@
+@media screen and (max-width: 768px) {
+    .first_header{
+        justify-content: center;
+        align-items: center;
+        align-self: center;
+        justify-items: center;
+        width: 320%;
+        padding: 10px;
+        font-size: 26px;
+    }
+
+    #div1 div{
+        display: none;
+    }
+
+    #div3{
+        display: none;
+    }
+
+    .logo{
+        display: none;
+    }
+
+    .search_bar{
+        margin-left: 30%;
+        scale: 1.5;
+    }
+
+    .account{
+        margin-left: 40%;
+        scale: 1.2;
+    }
+
+    .wishlist_cart{
+        margin-left: 30%;
+        scale: 1.2;
+    }
+
+    .wish_cart_div{
+        margin: 12px 0 0 5px;
+    }
+
+    .nav_bar{
+        width: 330%;
+    }
+
+    #ask_pharmacist{
+        margin-left: 300px;
+    }
+
+    .left_right_img{
+        width: 330%;
+    }
+
+    .product{
+        margin-left: 60%;
+        margin-right: 60%;
+        width: 200%;
+        scale: 1.5;
+        margin-top: 10%;
+    }
+
+    .oral_div{
+        width: 1000px;
+        justify-content: center;
+        margin-left: 40%;
+    }
+
+    .category_products{
+        grid-template-columns: repeat(2, 1fr);
+        justify-content: center;
+        align-self: center;
+        justify-items: center;
+        align-items: center;
+        margin-left: 148%;
+    }
+
+    .product_card{
+        margin-left: 10%;
+        height: 500px;
+        width: 400px;
+    }
+
+    #product_img img{
+        height: 310px;
+        width: 350px;
+    }
+
+    #product_name{
+        font-size: 30px;
+    }
+
+    #product_price{
+        font-size: 25px;
+    }
+
+    #add_to_cart{
+        height: 40px;
+        width: 200px;
+    }
+
+    .doctor_section{
+        padding-top: 100px;
+        padding-bottom: 50px;
+        width: 330%;
+        height: 1000%;
+        object-fit: contain; 
+    }
+
+    .doctor{
+        height: 120%;
+    }
+
+    #doctor_head{
+        font-size: 160px;
+    }
+
+    #doctor_statement{
+        font-size: 70px;
+    }
+
+    .doctor{
+        display: contents;
+    }
+
+    .doctor_one{
+        margin-bottom: 100px;
+    }
+
+    .doctor_two{
+        margin-bottom: 100px;
+    }
+
+    .doctor_three{
+        margin-bottom: 100px;
+    }
+
+    .doctor img{
+        height: 1000px;
+        width: 1000px;
+        padding: 50px;
+    }
+
+    #doctor_name{
+        font-size: 100px;
+    }
+
+    #doctor_qualification{
+        font-size: 80px;
+    }
+
+    #doctor_description{
+        font-size: 60px;
+    }
+
+    .footer{
+        width: 100%;
+        justify-content: center;
+    }
+
+    .ask_body{
+        margin-left: 230%;
+        height: 650px;
+    }
+
+    .ask_body{
+        scale: 2;
+        margin-top: 100%;
+        margin-bottom: 100%;
+    }
+
+    .ask_1{
+        width: 100%;
+    }
+
+    .ask_2{
+        display: none;
+    }
+
+    #ask_img{
+        display: none;
+    }
+
+    .main_footer{
+        padding-top: 50px;
+        padding-bottom: 50px;
+        width: 330%;
+        height: 3300px;
+        justify-content: center;
+        border-radius: 40px 40px 0px 0px;
+    }
+
+    .footer_1{
+        display: initial;
+    }
+
+    #footer_head{
+        font-size: 120px;
+        font-weight: 700;
+    }
+
+    #footer_body{
+        font-size: 80px;
+        font-weight: 540;
+    }
+
+    #footer_1_3 iframe{
+        height: 500px;
+        width: 750px;
+    }
+
+    .footer_2{
+        font-size: 80px;
+        height: 130px;
+    }
+
+}
